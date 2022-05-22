@@ -1,6 +1,4 @@
-# Unit 21
-
-## Martian Token Crowdsale
+# Martian Token Crowdsale
 
 My name is Oscar Lopez, I’m a student at the University of Miami FinTech Bootcamp Program.
 
